@@ -1,0 +1,7 @@
+[Activity]
+name = Lybniz Graph Plotter
+activity_version = 1
+bundle_id = org.ceibaljam.Lybniz
+exec = sugar-activity lybniz.LybnizActivity -s
+icon = lybniz
+license = BSD

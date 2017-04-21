@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-16 13:23-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Lybniz Graph Plotter"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:408
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:528
+msgid "Evaluate"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:521
+msgid "Graph"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:523
+msgid "Plot"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:536
+msgid "Zoom In"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:541
+msgid "Zoom Out"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:546
+msgid "Zoom Reset"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:554
+msgid "Connect Points"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:564
+msgid "Decimal Scale Style"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:570
+msgid "Radians Scale Style"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:577
+msgid "Custom Scale Style"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:638
+msgid "X min"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:642
+msgid "Y min"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:651
+msgid "X max"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:655
+msgid "Y max"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:664
+msgid "X scale"
+msgstr ""
+
+#: /home/daniel/lybniz-graph-plotter/lybniz.py:668
+msgid "Y scale"
+msgstr ""

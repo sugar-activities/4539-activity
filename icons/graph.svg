@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <path class="SamplePath" d="M5,20 C5,10 20,10 20,20 S35,30 35,20" style="fill:none; stroke:#FFFFFF; stroke-width:2"/>
+  <rect x="0" y="19.8" width="40" height="0.4" style="fill: #FFFFFF; stroke: none;"/>
+  <rect x="19.8" y="0" width="0.4" height="40" style="fill: #FFFFFF; stroke: none;"/>
+</svg>

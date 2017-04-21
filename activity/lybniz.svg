@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><!-- Created with Inkscape (http://www.inkscape.org/) --><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#000000">
+	<!ENTITY fill_color "#ffffff">
+]><svg height="64px" id="svg1878" inkscape:export-filename="/home/sam/docs/computer/python/lybniz/rough_icon.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:version="0.48.1 r9760" sodipodi:docname="lybniz.svg" sodipodi:version="0.32" version="1.1" width="64px" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="defs1880"/>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="27.589423" inkscape:cy="32.451366" inkscape:document-units="px" inkscape:grid-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="742" inkscape:window-maximized="1" inkscape:window-width="1280" inkscape:window-x="0" inkscape:window-y="26" inkscape:zoom="7.2559063" pagecolor="#ffffff" showgrid="false">
+    <inkscape:grid color="#0000ff" empcolor="#0000ff" empopacity="0.4" empspacing="1" id="GridFromPre046Settings" opacity="0.2" originx="0px" originy="0px" spacingx="1px" spacingy="1px" type="xygrid"/>
+  </sodipodi:namedview>
+  <metadata id="metadata1883">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+    <path d="M 9.8996329,27.121153 C 5.2933829,29.253472 2.6211528,29.378847 2.6211528,29.378847" id="path1884" sodipodi:nodetypes="cc" style="fill:&fill_color;;fill-opacity:1;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:1.24230551999999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path d="M 32,1 L 32,63" id="path1886" style="fill:&fill_color;;fill-opacity:1;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="M 1,31 L 63,31.120983" id="path1888" style="fill:&fill_color;;fill-opacity:1;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="M 61.310465,46.81222 C 62.503787,43.965805 57.576413,21.813467 47.216741,20.29835 36.840587,18.780824 26.283692,37.97802 22.971826,37.97802 c -3.311868,0 -3.046125,-19.84162 -9.662087,-20.23783 -2.376922,-0.142347 -10.3394696,6.1888 -10.3394696,7.847849 0,1.659048 6.6353096,2.700907 8.8072226,3.788906 2.171912,1.087998 4.978197,21.405793 11.05698,21.405793 6.199084,0 17.97976,-22.715448 22.921507,-22.024434 4.956331,0.693049 13.035251,20.75191 15.554486,18.053916 z" id="path2832" inkscape:connector-curvature="0" sodipodi:nodetypes="czzssszzc" style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+    <path d="m 32,1.070072 0,62" id="path2835" inkscape:connector-curvature="0" style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"/>
+    <path d="M 24.539253,30.968167 L 45.257397,31.003124" id="path2837" sodipodi:nodetypes="cc" style="fill:&fill_color;;fill-opacity:1;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:3.93633341999999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="M 13.834586 25.022556 A 2.0451128 1.3233082 0 1 1  9.7443607,25.022556 A 2.0451128 1.3233082 0 1 1  13.834586 25.022556 z" id="path2839" sodipodi:cx="11.789474" sodipodi:cy="25.022556" sodipodi:rx="2.0451128" sodipodi:ry="1.3233082" sodipodi:type="arc" style="opacity:1;fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(0.755639,-1.845865)"/>
+  </g>
+</svg>
